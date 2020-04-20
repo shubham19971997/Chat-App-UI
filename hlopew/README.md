@@ -1,4 +1,4 @@
-# hlopew
+# Chat App UI
 
 A new Flutter project.
 
